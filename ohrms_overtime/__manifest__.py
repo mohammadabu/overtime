@@ -40,7 +40,7 @@
     },
     'data': [
 
-        # 'data/data.xml',
+        'data/data.xml',
         'views/overtime_request_view.xml',
         'views/overtime_type.xml',
         'views/hr_contract.xml',
