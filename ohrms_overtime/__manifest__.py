@@ -44,7 +44,7 @@
         'views/overtime_request_view.xml',
         'views/overtime_type.xml',
         # 'views/hr_contract.xml',
-        'views/hr_payslip.xml',
+        # 'views/hr_payslip.xml',
         'security/ir.model.access.csv',
     ],
     'demo': ['data/hr_overtime_demo.xml'],
